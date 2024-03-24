@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfff4317.css",
+    "main.js": "/static/js/main.a243e0af.js",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/risheetajain.png": "/static/media/risheetajain.1478118c296b23955018.png",
+    "static/media/Risheeta_Jain_Resume.pdf": "/static/media/Risheeta_Jain_Resume.080d4008b773e0626a5d.pdf",
+    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/android.svg": "/static/media/android.788e339b33d2529f5dd04d9328f7721f.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/index.html",
+    "static/media/dart.svg": "/static/media/dart.567c9e876cb41827e1bdae024960b7ff.svg",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/flutter.svg": "/static/media/flutter.5e0ebde82050c8fcdf6121b4498b520c.svg",
+    "static/media/ios.svg": "/static/media/ios.91d738acfc60973ba3a48e672dfe1a4e.svg",
+    "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/firebase.svg": "/static/media/firebase.8f69a13150a1594d8fb73df74f12b548.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "main.bfff4317.css.map": "/static/css/main.bfff4317.css.map",
+    "main.a243e0af.js.map": "/static/js/main.a243e0af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfff4317.css",
+    "static/js/main.a243e0af.js"
+  ]
+}
