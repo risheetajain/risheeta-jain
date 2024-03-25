@@ -5,7 +5,7 @@ import Hello from '../../assets/Hello.gif'
 import githubIcon from '../../assets/github.svg'
 import Illustration from "../../assets/illustration.svg"
 import linkedin from '../../assets/linkedin.svg'
-import telegram from '../../assets/telegram.svg'
+// import telegram from '../../assets/telegram.svg'
 import whatsapp from '../../assets/whatsapp.svg'
 import { Container } from "./styles"
 export function Hero() {
