@@ -3,7 +3,7 @@ import linkedin from '../../assets/linkedin.svg'
 import reactIcon from '../../assets/react-icon.svg'
 import whatsapp from '../../assets/whatsapp.svg'
 import { Container } from './styles'
-// import discordIcon from '../../assets/discord.png'
+import instagramIcon from '../../assets/instagram.svg'
 
 export function Footer() {
   return (
@@ -47,13 +47,13 @@ export function Footer() {
         >
           <img src={telegram} alt="telegram" />
         </a> */}
-        {/* <a
+        <a
           href="https://www.instagram.com/vinayaksingh.in"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a> */}
+        </a>
       </div>
     </Container>
   )

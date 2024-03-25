@@ -7,14 +7,14 @@ export function Blog() {
     const blogDataList = [
 
         {
-            title: "Blog Post 1",
-            date: "",
-            content: ""
+            title: "Click here",
+            date: "12 jan 2023",
+            content: "hfhh", link: "https://auth.geeksforgeeks.org/user/flutterwings/articles"
         }
     ];
     return (
         <Container id="blogs">
-            <h2>My Blogs</h2>
+            <h2>My Blogs List</h2>
             <div className="blogs">
 
 

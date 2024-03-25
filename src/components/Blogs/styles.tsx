@@ -9,15 +9,15 @@ export const Container = styled.section`
     font-size: 4rem;
     margin-bottom: 3rem;
   }
-  .projects{
+  .blogs{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: auto;
     gap: 2rem;
     padding: 1rem;
     overflow: hidden;
 
-    .project{
+    .blog-post{
       padding: 2rem 1.8rem;
       background-color: #2b2b2b;
       border-radius: 1.2rem;

@@ -8,6 +8,7 @@ import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 
 import { About } from "../About/About";
+// import { Blog } from "../Blogs/blogs";
 import { Contact } from "../Contact/Contact";
 import { Hero } from "../Hero/Hero";
 import { Project } from "../Project/Project";

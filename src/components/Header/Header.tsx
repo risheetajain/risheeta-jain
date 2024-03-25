@@ -46,6 +46,9 @@ export function Header() {
           <a href={Resume} download className="button">
             Resume
           </a>
+          <a href="https://auth.geeksforgeeks.org/user/flutterwings/articles" download className="button">
+            Blogs
+          </a>
         </nav>
         <div
           aria-expanded={isActive ? 'true' : 'false'}
