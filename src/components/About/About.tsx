@@ -35,7 +35,8 @@ export function About() {
             So if you're in need of a new mobole development and website development or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your dreams to reality together!</p>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="fadeInLeft" delay={0.5 * 1000}>
+
+        <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000}>
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>
         <div className="hard-skills">

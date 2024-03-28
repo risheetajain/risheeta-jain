@@ -17,7 +17,7 @@ const ProjectComponent: React.FC<ProjectProps> = ({ animateIn, icon, link, linkT
         <ScrollAnimation animateIn={animateIn}>
             <div className="project">
                 <header>
-                    <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
+                    <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#33B9F6" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
                         <title>Folder</title>
                         <path d={icon}></path>
                     </svg>

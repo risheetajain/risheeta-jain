@@ -1,9 +1,9 @@
 import ScrollAnimation from "react-animate-on-scroll"
 import { BrowserRouter } from "react-router-dom"
 import { NavHashLink } from "react-router-hash-link"
+import Illustration from "../../assets/App development-bro.png"
 import Hello from '../../assets/Hello.gif'
 import githubIcon from '../../assets/github.svg'
-import Illustration from "../../assets/illustration.svg"
 import linkedin from '../../assets/linkedin.svg'
 // import telegram from '../../assets/telegram.svg'
 import whatsapp from '../../assets/whatsapp.svg'
@@ -51,7 +51,7 @@ export function Hero() {
             >
               <img src={whatsapp} alt="Whatsapp" />
             </a>
-           </div>
+          </div>
         </ScrollAnimation>
       </div>
       <div className="hero-image">

@@ -1,9 +1,9 @@
 import githubIcon from '../../assets/github.svg'
+import instagramIcon from '../../assets/instagram.svg'
 import linkedin from '../../assets/linkedin.svg'
 import reactIcon from '../../assets/react-icon.svg'
 import whatsapp from '../../assets/whatsapp.svg'
 import { Container } from './styles'
-import instagramIcon from '../../assets/instagram.svg'
 
 export function Footer() {
   return (
@@ -48,7 +48,7 @@ export function Footer() {
           <img src={telegram} alt="telegram" />
         </a> */}
         <a
-          href="https://www.instagram.com/vinayaksingh.in"
+          href="https://www.instagram.com/flutter.wings/"
           target="_blank"
           rel="noreferrer"
         >
@@ -58,3 +58,4 @@ export function Footer() {
     </Container>
   )
 }
+

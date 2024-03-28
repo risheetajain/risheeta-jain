@@ -1,11 +1,14 @@
 import Particles from "react-tsparticles";
 import htmlIcon from "../../assets/android.svg";
 import dart from "../../assets/dart.svg";
+// import dash from "../../assets/dash.svg";
 import firebase from "../../assets/firebase.svg";
 import flutter from "../../assets/flutter.svg";
 import jsIcon from "../../assets/ios.svg";
 import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
+
+
 
 import { About } from "../About/About";
 // import { Blog } from "../Blogs/blogs";
@@ -196,7 +199,7 @@ export function Main() {
                   "height": 20
                 },
                 // {
-                //   "src": vscodeIcon,
+                //   "src": dash,
                 //   "width": 20,
                 //   "height": 20
                 // },
